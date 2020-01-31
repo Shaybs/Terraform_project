@@ -1,0 +1,7 @@
+/environments/staging/.terraform
+/environments/staging/.terraform.tfstate.lock.info
+/environments/staging/terraform.tfstate
+/environments/staging/terraform.tfstate.backup
+/environments/staging/staging.tfvars
+/environments/development/development.tfvars
+/environments/production/production.tfvars
